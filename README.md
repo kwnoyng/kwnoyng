@@ -1,4 +1,4 @@
-### 음?!
+### 음?! 어떻게 꾸며야할까?
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kwnoyng)](https://solved.ac/kwnoyng)
