@@ -1,4 +1,4 @@
-# <center>KWON O YOUNG</center>
+# <center> KWON O YOUNG </center>
 
 ### Profil
 - **2016.03 ~ 2020.02 &nbsp;&nbsp; 충북대학교 입학 및 졸업**<br/>
