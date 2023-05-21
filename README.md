@@ -1,9 +1,22 @@
-# <center> KWON O YOUNG </center>
+## kwnoyng
 
-### Profile
-- **2016.03 ~ 2020.02 &nbsp;&nbsp; 충북대학교 입학 및 졸업**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1전공 : 토목공학부, 2전공 : 화학공학과<br/>
-- **2020.03 ~ 2022.06 &nbsp;&nbsp; ROTC 임관, 육군 중위 만기전역**<br/>
-- **2022.07 ~ &nbsp;&nbsp; SSAFY 8th**<br>
+### Hi there! 👋
 
-★★
+<!--
+**kwnoyng/kwnoyng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Kotlin, Java, Web
+-->
+
+
+- 📫 How to reach me: kwnoyng@gmail.com
